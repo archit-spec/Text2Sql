@@ -1,0 +1,612 @@
+[
+  {
+    "text": "they say data is the new oil but refining it is\u00a0\nwhat makes it valuable data analysis learning data\u00a0\u00a0",
+    "start": 0.0,
+    "duration": 7.26
+  },
+  {
+    "text": "analysis is one of the best things you can do if\u00a0\nI could go back in time I would not do it and I'll\u00a0\u00a0",
+    "start": 7.26,
+    "duration": 5.16
+  },
+  {
+    "text": "explain in a bit but if I had to learn it all over\u00a0\nagain this is exactly how I would do it I'll break\u00a0\u00a0",
+    "start": 12.42,
+    "duration": 5.22
+  },
+  {
+    "text": "this video up into three parts mindset programming\u00a0\nand data visualization and if you're not in\u00a0\u00a0",
+    "start": 17.64,
+    "duration": 6.12
+  },
+  {
+    "text": "college or university great this video is for you\u00a0\nit might be a bit more challenging but if you're\u00a0\u00a0",
+    "start": 23.76,
+    "duration": 5.04
+  },
+  {
+    "text": "willing to put in the work you can definitely\u00a0\nbecome a data analyst all by yourself in fact if\u00a0\u00a0",
+    "start": 28.8,
+    "duration": 4.92
+  },
+  {
+    "text": "I could go back in time I don't know if I would\u00a0\nhave gone to University at all let's get into\u00a0\u00a0",
+    "start": 33.72,
+    "duration": 4.62
+  },
+  {
+    "text": "it part one mindset data analysts and scientists\u00a0\njust think differently we approach the world in a\u00a0\u00a0",
+    "start": 38.34,
+    "duration": 5.76
+  },
+  {
+    "text": "more analytical way and I can honestly say that my\u00a0\nday-to-day life has changed since I became a data\u00a0\u00a0",
+    "start": 44.1,
+    "duration": 5.04
+  },
+  {
+    "text": "analyst data analyst data analyst from Southern\u00a0\nAmerica step 1.1 adopt an analytical mindset and\u00a0\u00a0",
+    "start": 49.14,
+    "duration": 7.14
+  },
+  {
+    "text": "what I mean by this is that in every situation\u00a0\nannoyance or issue you face in life there's an\u00a0\u00a0",
+    "start": 56.28,
+    "duration": 5.4
+  },
+  {
+    "text": "optimal decision you can make you just need to\u00a0\nfind it whether it takes you one minute one hour\u00a0\u00a0",
+    "start": 61.68,
+    "duration": 5.04
+  },
+  {
+    "text": "or one day if you're able to see the data in front\u00a0\nof you you're able to make the best decision based\u00a0\u00a0",
+    "start": 66.72,
+    "duration": 5.46
+  },
+  {
+    "text": "on that data and a lot of people ask me does\u00a0\nbeing analytical mean you have to be good at\u00a0\u00a0",
+    "start": 72.18,
+    "duration": 4.08
+  },
+  {
+    "text": "math no not at all if you're good at math you're\u00a0\nprobably analytical but if you're analytical you\u00a0\u00a0",
+    "start": 76.26,
+    "duration": 5.4
+  },
+  {
+    "text": "don't have to necessarily be good at math being\u00a0\nanalytical simply means applying logical reasoning\u00a0\u00a0",
+    "start": 81.66,
+    "duration": 5.64
+  },
+  {
+    "text": "to find out more about something it means asking\u00a0\nthe right questions to break down a problem to\u00a0\u00a0",
+    "start": 87.3,
+    "duration": 4.98
+  },
+  {
+    "text": "its very essence and I'll give you an example\u00a0\nof being analytical in the real world whenever\u00a0\u00a0",
+    "start": 92.28,
+    "duration": 4.62
+  },
+  {
+    "text": "I need to make a big purchase like a TV washing\u00a0\nmachine or a car or whatever I always compare a\u00a0\u00a0",
+    "start": 96.9,
+    "duration": 6.54
+  },
+  {
+    "text": "lot of different models I compare the cons and\u00a0\npros of each the quality the functionalities\u00a0\u00a0",
+    "start": 103.44,
+    "duration": 4.74
+  },
+  {
+    "text": "and the price so I can eventually pick the best\u00a0\nvalue for money that's being analytical and that\u00a0\u00a0",
+    "start": 108.18,
+    "duration": 5.94
+  },
+  {
+    "text": "brings me to step 1.2 of the data mindset don't\u00a0\ntrust verify in my seven years of being a data\u00a0\u00a0",
+    "start": 114.12,
+    "duration": 5.82
+  },
+  {
+    "text": "analyst I've had so many managers come up to me\u00a0\ntelling me my dashboard is wrong or the reports\u00a0\u00a0",
+    "start": 119.94,
+    "duration": 4.98
+  },
+  {
+    "text": "are not correct while the data is 100% correct\u00a0\nor even worse sometimes managers would come up to\u00a0\u00a0",
+    "start": 124.92,
+    "duration": 5.52
+  },
+  {
+    "text": "me and ask me if I could leave just a little bit\u00a0\nlittle part of the data set out of the data just\u00a0\u00a0",
+    "start": 130.44,
+    "duration": 5.22
+  },
+  {
+    "text": "skew the data a little bit so it looks like we're\u00a0\ndoing better than we actually are and that day I\u00a0\u00a0",
+    "start": 135.66,
+    "duration": 5.1
+  },
+  {
+    "text": "realized that if I don't verify the data myself I\u00a0\nwill never know if that data is actually telling\u00a0\u00a0",
+    "start": 140.76,
+    "duration": 5.46
+  },
+  {
+    "text": "the truth and this applies to everything in your\u00a0\nlife from the ads you see on TV the articles you\u00a0\u00a0",
+    "start": 146.22,
+    "duration": 5.7
+  },
+  {
+    "text": "read on the internet and what politicians are\u00a0\ntelling you about the economy they throw around\u00a0\u00a0",
+    "start": 151.92,
+    "duration": 5.28
+  },
+  {
+    "text": "all these fancy terms and numbers but you gotta\u00a0\nunderstand numbers don't lie people do so as a\u00a0\u00a0",
+    "start": 157.2,
+    "duration": 6.12
+  },
+  {
+    "text": "data analyst don't trust verify and as soon as I\u00a0\ninternalized this fact I really started developing\u00a0\u00a0",
+    "start": 163.32,
+    "duration": 5.76
+  },
+  {
+    "text": "my analytical thinking both in my professional\u00a0\njourney and in my personal life part two learn\u00a0\u00a0",
+    "start": 169.08,
+    "duration": 5.52
+  },
+  {
+    "text": "programming I can't say it won't be challenging\u00a0\nbut it will be absolutely worth it step 2.1 pick\u00a0\u00a0",
+    "start": 174.6,
+    "duration": 6.24
+  },
+  {
+    "text": "your first tool well actually if you're absolutely\u00a0\nnew to data analytics you might actually want to\u00a0\u00a0",
+    "start": 180.84,
+    "duration": 4.92
+  },
+  {
+    "text": "start with the fundamentals of data analysis\u00a0\nfirst Step 2.0 get familiar with data analytics\u00a0\u00a0",
+    "start": 185.76,
+    "duration": 7.68
+  },
+  {
+    "text": "and there is a really easy way to get started with\u00a0\nthe basics of data analysis that I only wish I had\u00a0\u00a0",
+    "start": 193.44,
+    "duration": 5.1
+  },
+  {
+    "text": "when I started my journey there's a free course\u00a0\nby IBM called the introduction to data analytics\u00a0\u00a0",
+    "start": 198.54,
+    "duration": 5.16
+  },
+  {
+    "text": "it's hosted on Coursera a paid platform but they\u00a0\nhave a seven day free trial which is more than\u00a0\u00a0",
+    "start": 203.7,
+    "duration": 5.76
+  },
+  {
+    "text": "enough to finish this course so if you're just\u00a0\nstarting out your journey into data analytics\u00a0\u00a0",
+    "start": 209.46,
+    "duration": 3.84
+  },
+  {
+    "text": "this is a great way to start back to step 2.1\u00a0\npick your first tool it's simple when you're\u00a0\u00a0",
+    "start": 213.3,
+    "duration": 5.88
+  },
+  {
+    "text": "just starting out there's actually only two tools\u00a0\nyou really should consider Excel and SQL they're\u00a0\u00a0",
+    "start": 219.18,
+    "duration": 5.28
+  },
+  {
+    "text": "both tools that can be used to extract data from\u00a0\ndata sources or queries to combine data and to\u00a0\u00a0",
+    "start": 224.46,
+    "duration": 5.82
+  },
+  {
+    "text": "transform that same data simply put if I could\u00a0\ngo back in time this is the way I would approach\u00a0\u00a0",
+    "start": 230.28,
+    "duration": 4.68
+  },
+  {
+    "text": "it if you already have a job but it's not data\u00a0\nrelated then I would go for Excel because there's\u00a0\u00a0",
+    "start": 234.96,
+    "duration": 5.04
+  },
+  {
+    "text": "a very big chance your company is already using\u00a0\nitself maybe you're already using Excel Excel is a\u00a0\u00a0",
+    "start": 240.0,
+    "duration": 5.46
+  },
+  {
+    "text": "perfect stepping stone into some basic programming\u00a0\ndata manipulation and even some data visualization\u00a0\u00a0",
+    "start": 245.46,
+    "duration": 5.58
+  },
+  {
+    "text": "get good at it start using it in your day-to-day\u00a0\nwork get familiar with formulas like VLOOKUP\u00a0\u00a0",
+    "start": 251.04,
+    "duration": 5.46
+  },
+  {
+    "text": "IF-statements SUMIF start using Pivot Tables\u00a0\nand maybe even build some graphs in a report\u00a0\u00a0",
+    "start": 256.5,
+    "duration": 5.04
+  },
+  {
+    "text": "or dashboard that you can use for yourself\u00a0\nmaybe your team or your manager and if you\u00a0\u00a0",
+    "start": 261.54,
+    "duration": 4.74
+  },
+  {
+    "text": "don't have a job yet and you want to get straight\u00a0\ninto Data analysis then I would recommend picking\u00a0\u00a0",
+    "start": 266.28,
+    "duration": 4.44
+  },
+  {
+    "text": "SQL first SQL is one of the simplest programming\u00a0\nlanguages used to talk to databases basically\u00a0\u00a0",
+    "start": 270.72,
+    "duration": 6.0
+  },
+  {
+    "text": "just writing simple code to extract combine and\u00a0\ntransform data next to Excel it is the second\u00a0\u00a0",
+    "start": 276.72,
+    "duration": 5.46
+  },
+  {
+    "text": "most requested skill in data analysis jobs again\u00a0\na big thanks to Luke Barousse for coming up with\u00a0\u00a0",
+    "start": 282.18,
+    "duration": 5.22
+  },
+  {
+    "text": "this graph a free resource to get good at Excel is\u00a0\nexcel-practice-online.com and and a great resource\u00a0\u00a0",
+    "start": 287.4,
+    "duration": 7.86
+  },
+  {
+    "text": "to become a pro at SQL is learnsql.com it took\u00a0\nme way too much time to learn SQL properly and\u00a0\u00a0",
+    "start": 295.26,
+    "duration": 6.72
+  },
+  {
+    "text": "I underestimated how important SQL actually is to\u00a0\nbecome a data analyst as I said it's the second\u00a0\u00a0",
+    "start": 301.98,
+    "duration": 5.22
+  },
+  {
+    "text": "most requested skill for data analyst jobs so\u00a0\nif you want to learn or practice SQL check out\u00a0\u00a0",
+    "start": 307.2,
+    "duration": 5.34
+  },
+  {
+    "text": "learnsql.com they have a set of over 65 Hands-On\u00a0\nSQL courses and it's a 100 online experience no\u00a0\u00a0",
+    "start": 312.54,
+    "duration": 8.64
+  },
+  {
+    "text": "need to install anything on your device everything\u00a0\nhappens through your web browser all learnsql.com\u00a0\u00a0",
+    "start": 321.18,
+    "duration": 5.76
+  },
+  {
+    "text": "courses are interactive and based on real life\u00a0\nbusiness scenarios meaning you'll be writing\u00a0\u00a0",
+    "start": 326.94,
+    "duration": 5.46
+  },
+  {
+    "text": "SQL queries and seeing the results instantly\u00a0\nlearnsql.com reached out to me to ask if they\u00a0\u00a0",
+    "start": 332.4,
+    "duration": 5.52
+  },
+  {
+    "text": "could sponsor this video but I only said yes after\u00a0\nI took a look through the platform I checked out\u00a0\u00a0",
+    "start": 337.92,
+    "duration": 4.8
+  },
+  {
+    "text": "their courses and realized this is exactly what I\u00a0\nneeded when I was starting my data analyst journey\u00a0\u00a0",
+    "start": 342.72,
+    "duration": 5.16
+  },
+  {
+    "text": "so of course I'm going to recommend it to you plus\u00a0\nthey're letting me give away a great offer if you\u00a0\u00a0",
+    "start": 347.88,
+    "duration": 4.74
+  },
+  {
+    "text": "click the link in the description and choose one\u00a0\nof the learning paths in SQL PostgreSQL or T-SQL\u00a0\u00a0",
+    "start": 352.62,
+    "duration": 5.88
+  },
+  {
+    "text": "the best way to learn programming is by doing once\u00a0\nyou've mastered your first tool it's time to get\u00a0\u00a0",
+    "start": 359.58,
+    "duration": 4.98
+  },
+  {
+    "text": "into the more advanced data analytics step 2.2\u00a0\npick your programming language and for this one\u00a0\u00a0",
+    "start": 364.56,
+    "duration": 6.12
+  },
+  {
+    "text": "let me start straight with the resources ever\u00a0\nwanted to say that you've studied at Harvard\u00a0\u00a0",
+    "start": 370.68,
+    "duration": 4.14
+  },
+  {
+    "text": "Harvard studied at Harvard well now you can there\u00a0\nare three data science courses that you can take\u00a0\u00a0",
+    "start": 374.82,
+    "duration": 7.56
+  },
+  {
+    "text": "online from Harvard absolutely free and online\u00a0\nbut before you start with those courses I would\u00a0\u00a0",
+    "start": 382.38,
+    "duration": 5.1
+  },
+  {
+    "text": "recommend picking one programming language and\u00a0\nlearning it deeply and it's really simple as a\u00a0\u00a0",
+    "start": 387.48,
+    "duration": 4.2
+  },
+  {
+    "text": "data analyst you only have to choose between two\u00a0\nprogramming languages R and python R is mainly\u00a0\u00a0",
+    "start": 391.68,
+    "duration": 5.04
+  },
+  {
+    "text": "programming language focused on statistical\u00a0\nanalysis while python is a general purpose\u00a0\u00a0",
+    "start": 396.72,
+    "duration": 4.14
+  },
+  {
+    "text": "language that happens to be very good for\u00a0\ndata analysis as well meaning if you get good\u00a0\u00a0",
+    "start": 400.86,
+    "duration": 4.08
+  },
+  {
+    "text": "at python for data analysis it might open up the\u00a0\nworld for a lot of new job opportunities I would\u00a0\u00a0",
+    "start": 404.94,
+    "duration": 5.28
+  },
+  {
+    "text": "recommend installing the Anaconda distribution for\u00a0\nPython and then installing spider as your IDE or\u00a0\u00a0",
+    "start": 410.22,
+    "duration": 5.58
+  },
+  {
+    "text": "integrated development environment for programming\u00a0\nin Python to learn Python you can go to this free\u00a0\u00a0",
+    "start": 415.8,
+    "duration": 5.22
+  },
+  {
+    "text": "website called learnpython.org where each lesson\u00a0\nexplains a basic concept after which you have to\u00a0\u00a0",
+    "start": 421.02,
+    "duration": 5.82
+  },
+  {
+    "text": "apply this concept to the problem again learn by\u00a0\ndoing and once you know how to use Python you've\u00a0\u00a0",
+    "start": 426.84,
+    "duration": 4.86
+  },
+  {
+    "text": "adopted this analytical mindset it's time for\u00a0\nyou to apply your data analysis skills to your\u00a0\u00a0",
+    "start": 431.7,
+    "duration": 4.8
+  },
+  {
+    "text": "personal life step 2.3 create a personal project\u00a0\nthe first thing I would do is check out Reddit at\u00a0\u00a0",
+    "start": 436.5,
+    "duration": 6.78
+  },
+  {
+    "text": "r/datasets to see if there are any interesting\u00a0\ndata sets for you to analyze although practice\u00a0\u00a0",
+    "start": 443.28,
+    "duration": 4.44
+  },
+  {
+    "text": "data sets are fine to grow your skills you need\u00a0\nsome real life data to actually use it for your\u00a0\u00a0",
+    "start": 447.72,
+    "duration": 4.86
+  },
+  {
+    "text": "personal projects another thing I would do is\u00a0\nlearn how to scrape data from the web yourself\u00a0\u00a0",
+    "start": 452.58,
+    "duration": 4.38
+  },
+  {
+    "text": "you could start scraping data from job portal\u00a0\nwebsites to analyze what kind of skills or tools\u00a0\u00a0",
+    "start": 456.96,
+    "duration": 5.28
+  },
+  {
+    "text": "are most in demand for data analysts here's\u00a0\na nice article on how to get started scraping\u00a0\u00a0",
+    "start": 462.24,
+    "duration": 4.62
+  },
+  {
+    "text": "data from the job platform indeed.com and here\u00a0\nare nine other examples of personal projects you\u00a0\u00a0",
+    "start": 466.86,
+    "duration": 6.48
+  },
+  {
+    "text": "could start yourself and once you get the hang\u00a0\nof it these personal projects are the best way\u00a0\u00a0",
+    "start": 473.34,
+    "duration": 4.62
+  },
+  {
+    "text": "to grow your data analysis skills while building\u00a0\nyour portfolio and actually building something\u00a0\u00a0",
+    "start": 477.96,
+    "duration": 4.8
+  },
+  {
+    "text": "valuable for yourself all while getting a taste\u00a0\nof what it's like working as a data analyst go\u00a0\u00a0",
+    "start": 482.76,
+    "duration": 5.94
+  },
+  {
+    "text": "ahead pick a topic you're passionate about\u00a0\nand ideally start a project where you get to\u00a0\u00a0",
+    "start": 488.7,
+    "duration": 4.26
+  },
+  {
+    "text": "use all your skills and tools from web scraping\u00a0\ndata extraction and transformation with SQL data\u00a0\u00a0",
+    "start": 492.96,
+    "duration": 6.12
+  },
+  {
+    "text": "analysis with python and then visualizing the data\u00a0\npart 3 data visualization scraping transforming\u00a0\u00a0",
+    "start": 499.08,
+    "duration": 6.48
+  },
+  {
+    "text": "and analyzing the data is one thing but conveying\u00a0\na message or telling a story with the data is a\u00a0\u00a0",
+    "start": 505.56,
+    "duration": 5.28
+  },
+  {
+    "text": "whole other thing our brains don't really like\u00a0\nnumbers and statistics but we do like visuals and\u00a0\u00a0",
+    "start": 510.84,
+    "duration": 4.92
+  },
+  {
+    "text": "stories and this is where the ability to create\u00a0\neffective visualizations comes in showing that you\u00a0\u00a0",
+    "start": 515.76,
+    "duration": 4.8
+  },
+  {
+    "text": "can create visualizations that are both effective\u00a0\nand visually appealing will go a long way towards\u00a0\u00a0",
+    "start": 520.56,
+    "duration": 4.92
+  },
+  {
+    "text": "impressing your potential employer step 3.1 pick\u00a0\nyour BI tool there are many business intelligence\u00a0\u00a0",
+    "start": 525.48,
+    "duration": 6.36
+  },
+  {
+    "text": "tools to pick from as a data analyst but if I\u00a0\ncould go back in time I would only consider the\u00a0\u00a0",
+    "start": 531.84,
+    "duration": 4.62
+  },
+  {
+    "text": "following two Power BI or Tableau Power BI\u00a0\nis part of the Microsoft stack so it works\u00a0\u00a0",
+    "start": 536.46,
+    "duration": 5.34
+  },
+  {
+    "text": "smoothly with Excel and SharePoint it has its own\u00a0\nDAX programming language used to manipulate data\u00a0\u00a0",
+    "start": 541.8,
+    "duration": 5.4
+  },
+  {
+    "text": "sets it's not the most user-friendly language\u00a0\nbut it does its job and there's a free version\u00a0\u00a0",
+    "start": 547.2,
+    "duration": 3.96
+  },
+  {
+    "text": "of Power BI to use to grow your skills and\u00a0\nTableau is a BI tool with more extensive data\u00a0\u00a0",
+    "start": 551.16,
+    "duration": 5.1
+  },
+  {
+    "text": "visualization capabilities than Power BI it also\u00a0\nhas a nice no coding intuitive drag and drop way\u00a0\u00a0",
+    "start": 556.26,
+    "duration": 5.52
+  },
+  {
+    "text": "of doing business analysis and you can practice\u00a0\nTableau for free as well on public.tableau.com\u00a0\u00a0",
+    "start": 561.78,
+    "duration": 6.18
+  },
+  {
+    "text": "for learning how to use both Tableau and Power BI\u00a0\nI would recommend Datacamp there's free courses\u00a0\u00a0",
+    "start": 567.96,
+    "duration": 5.28
+  },
+  {
+    "text": "you can do and also paid ones congrats by this\u00a0\npoint you're well on your way to becoming a\u00a0\u00a0",
+    "start": 573.24,
+    "duration": 5.28
+  },
+  {
+    "text": "data analyst on how to actually land a job as\u00a0\na data analyst I would recommend checking out\u00a0\u00a0",
+    "start": 578.52,
+    "duration": 4.26
+  },
+  {
+    "text": "my other video where I explain how you go from\u00a0\nbeginner to actually landing your first job as\u00a0\u00a0",
+    "start": 582.78,
+    "duration": 4.8
+  },
+  {
+    "text": "a data analyst one last thing and this might\u00a0\nsound strange I don't want you to subscribe to\u00a0\u00a0",
+    "start": 587.58,
+    "duration": 5.28
+  },
+  {
+    "text": "my channel seriously as I said at the beginning\u00a0\nof this video if I could go back in time I would\u00a0\u00a0",
+    "start": 592.86,
+    "duration": 5.52
+  },
+  {
+    "text": "never have chosen to become a data analyst in\u00a0\nthe first place because it took me seven years\u00a0\u00a0",
+    "start": 598.38,
+    "duration": 4.56
+  },
+  {
+    "text": "of working as a data analyst to realize that I\u00a0\ndon't want to work in an office for the rest of my\u00a0\u00a0",
+    "start": 602.94,
+    "duration": 5.04
+  },
+  {
+    "text": "life I realized instead of climbing the corporate\u00a0\nladder I'd rather pursue my own creative endeavors\u00a0\u00a0",
+    "start": 607.98,
+    "duration": 5.1
+  },
+  {
+    "text": "scratch that entrepreneurial itch I have I\u00a0\nrealized I want to achieve Personal Freedom\u00a0\u00a0",
+    "start": 613.08,
+    "duration": 5.34
+  },
+  {
+    "text": "Location Freedom and Financial Freedom and learned\u00a0\nthat data analysis might not guarantee actually me\u00a0\u00a0",
+    "start": 618.42,
+    "duration": 6.24
+  },
+  {
+    "text": "achieving that so if you want to learn more about\u00a0\ndata analysis and growing your data skills I would\u00a0\u00a0",
+    "start": 624.66,
+    "duration": 5.22
+  },
+  {
+    "text": "recommend subscribing to Luke Barousse Ken Jee and\u00a0\nAlex The Analyst instead of me they're probably\u00a0\u00a0",
+    "start": 629.88,
+    "duration": 6.6
+  },
+  {
+    "text": "the most brilliant data YouTubers out there\u00a0\nbut if you want to learn how to create a life\u00a0\u00a0",
+    "start": 636.48,
+    "duration": 5.04
+  },
+  {
+    "text": "of freedom Personal Freedom Location Freedom\u00a0\nand Financial Freedom and you want to see my\u00a0\u00a0",
+    "start": 641.52,
+    "duration": 5.22
+  },
+  {
+    "text": "journey of creating a life of Freedom where\u00a0\nI share every single lesson I learn through\u00a0\u00a0",
+    "start": 646.74,
+    "duration": 4.98
+  },
+  {
+    "text": "my YouTube videos then you might want to stick\u00a0\naround and I'll see you in the next video cheers",
+    "start": 651.72,
+    "duration": 4.02
+  }
+]

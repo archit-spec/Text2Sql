@@ -1,0 +1,587 @@
+[
+  {
+    "text": "in this video you're going to learn all the\u00a0\nfundamentals of data analysis and we'll break\u00a0\u00a0",
+    "start": 0.0,
+    "duration": 5.28
+  },
+  {
+    "text": "this down into four main areas first we're\u00a0\ngoing to be looking at transforming the data\u00a0\u00a0",
+    "start": 5.28,
+    "duration": 5.4
+  },
+  {
+    "text": "so cleaning it up secondly we're going to be\u00a0\nlooking at creating descriptive statistics to\u00a0\u00a0",
+    "start": 10.68,
+    "duration": 5.16
+  },
+  {
+    "text": "understanding better third we're going to be\u00a0\nlooking at data analysis and finally we'll get\u00a0\u00a0",
+    "start": 15.84,
+    "duration": 5.7
+  },
+  {
+    "text": "into creating a report to visualize our findings\u00a0\nso let's get into it and thank you to Coursera\u00a0\u00a0",
+    "start": 21.54,
+    "duration": 6.3
+  },
+  {
+    "text": "for sponsoring this video more on them later the\u00a0\nfirst step here is to transform the data and for\u00a0\u00a0",
+    "start": 27.84,
+    "duration": 6.6
+  },
+  {
+    "text": "this here's the Excel file that we'll be working\u00a0\nwith which you can download for free in the video\u00a0\u00a0",
+    "start": 34.44,
+    "duration": 4.14
+  },
+  {
+    "text": "description so as you can see this is going to\u00a0\nbe for a fast food chain you can see the types\u00a0\u00a0",
+    "start": 38.58,
+    "duration": 4.68
+  },
+  {
+    "text": "of products here and the first step is simply\u00a0\nto clean this up but for that we're going to\u00a0\u00a0",
+    "start": 43.26,
+    "duration": 4.62
+  },
+  {
+    "text": "go to control T So to change this into a table\u00a0\nso change the data set into a table then we'll\u00a0\u00a0",
+    "start": 47.88,
+    "duration": 6.6
+  },
+  {
+    "text": "head on OK from here for the cleanup part you can\u00a0\nsee that under the manager column we seem to have\u00a0\u00a0",
+    "start": 54.48,
+    "duration": 6.12
+  },
+  {
+    "text": "some very odd spacing here so let's go ahead and\u00a0\nclean that up here we're going to go to equals\u00a0\u00a0",
+    "start": 60.6,
+    "duration": 4.8
+  },
+  {
+    "text": "trim hit the top key and this formula is going\u00a0\nto remove these old spaces I'm going to hit enter\u00a0\u00a0",
+    "start": 66.18,
+    "duration": 6.06
+  },
+  {
+    "text": "there you can see that's going to Auto populate\u00a0\nfor all of these we'll change this name to manager",
+    "start": 72.24,
+    "duration": 5.4
+  },
+  {
+    "text": "and then for all of these that are\u00a0\ncurrently linked to this column over\u00a0\u00a0",
+    "start": 79.8,
+    "duration": 3.78
+  },
+  {
+    "text": "here we're going to paste them as values\u00a0\nso we're going to go Ctrl shift down\u00a0\u00a0",
+    "start": 83.58,
+    "duration": 4.08
+  },
+  {
+    "text": "Ctrl C and then we're gonna paste this as a value\u00a0\nso alt h v v is a shortcut for that and now that\u00a0\u00a0",
+    "start": 88.44,
+    "duration": 8.1
+  },
+  {
+    "text": "means that we can go ahead and remove this column\u00a0\nby hitting Ctrl minus there you go then under\u00a0\u00a0",
+    "start": 96.54,
+    "duration": 5.82
+  },
+  {
+    "text": "quantity you might notice that we've got these\u00a0\ndecimals which don't make too much sense you can't\u00a0\u00a0",
+    "start": 102.36,
+    "duration": 4.86
+  },
+  {
+    "text": "really have half a burger and so for this we're\u00a0\nbasically gonna have to round up to a whole number\u00a0\u00a0",
+    "start": 107.22,
+    "duration": 4.74
+  },
+  {
+    "text": "for that we're going to use the Roundup formula so\u00a0\nequals round up hit the top key there the number\u00a0\u00a0",
+    "start": 112.62,
+    "duration": 6.84
+  },
+  {
+    "text": "is this one comma and the number of digits for\u00a0\nus is going to be zero because we want the full\u00a0\u00a0",
+    "start": 119.46,
+    "duration": 5.28
+  },
+  {
+    "text": "number close those brackets and hit enter so this\u00a0\nis going to be our quantity now hit enter there\u00a0\u00a0",
+    "start": 124.74,
+    "duration": 6.24
+  },
+  {
+    "text": "and we basically wanna Ctrl shift down Ctrl C\u00a0\nand then paste as values so alt h v v v again\u00a0\u00a0",
+    "start": 130.98,
+    "duration": 8.7
+  },
+  {
+    "text": "there you go so now we can remove this column\u00a0\nhere so we're going to select it and control minus\u00a0\u00a0",
+    "start": 140.22,
+    "duration": 5.16
+  },
+  {
+    "text": "then you'll notice that under City here we have\u00a0\nthe city names but we don't necessarily have\u00a0\u00a0",
+    "start": 146.04,
+    "duration": 4.56
+  },
+  {
+    "text": "the countries that would be a nice thing to add so\u00a0\nfor this we can actually head over to the data tab\u00a0\u00a0",
+    "start": 150.6,
+    "duration": 6.12
+  },
+  {
+    "text": "and go under data types you'll find\u00a0\ngeography here so just click on that\u00a0\u00a0",
+    "start": 156.72,
+    "duration": 4.38
+  },
+  {
+    "text": "once you start to see that icon it means that\u00a0\nit's loaded up what you want to do here is\u00a0\u00a0",
+    "start": 162.72,
+    "duration": 4.8
+  },
+  {
+    "text": "hit over to this icon to the side under add\u00a0\ncolumn and we basically want to add a country\u00a0\u00a0",
+    "start": 167.52,
+    "duration": 5.7
+  },
+  {
+    "text": "or a region associated with that City and you\u00a0\ncan see that we have the corresponding country\u00a0\u00a0",
+    "start": 173.22,
+    "duration": 4.62
+  },
+  {
+    "text": "for each City if you want to move this city\u00a0\ncolumn next to the country you can actually\u00a0\u00a0",
+    "start": 177.84,
+    "duration": 5.16
+  },
+  {
+    "text": "go ahead and select it up top and we start to\u00a0\nsee these arrows when you hover over it just\u00a0\u00a0",
+    "start": 183.0,
+    "duration": 5.46
+  },
+  {
+    "text": "press the shift key and then just drag it across\u00a0\nlike so that should allow you to move everything\u00a0\u00a0",
+    "start": 188.46,
+    "duration": 4.62
+  },
+  {
+    "text": "one final thing we haven't done here is test\u00a0\nif there's any duplicates so for this we can\u00a0\u00a0",
+    "start": 193.08,
+    "duration": 5.58
+  },
+  {
+    "text": "simply go under data again and we're just going to\u00a0\nremove duplicates by going to this icon over here\u00a0\u00a0",
+    "start": 198.66,
+    "duration": 5.7
+  },
+  {
+    "text": "so we'll click on that and it's going to be\u00a0\nfor that whole table and we'll simply hit on OK\u00a0\u00a0",
+    "start": 204.36,
+    "duration": 4.8
+  },
+  {
+    "text": "and you can see here that we get a notification\u00a0\nsaying that five duplicate values were found and\u00a0\u00a0",
+    "start": 210.48,
+    "duration": 5.1
+  },
+  {
+    "text": "removed so we'll hit on OK there and speaking\u00a0\nof data analysis if this is something that\u00a0\u00a0",
+    "start": 215.58,
+    "duration": 5.7
+  },
+  {
+    "text": "you want to learn more about you can check out\u00a0\nGoogle's data analytics professional certificate\u00a0\u00a0",
+    "start": 221.28,
+    "duration": 5.58
+  },
+  {
+    "text": "it's designed to teach you job ready skills\u00a0\nfor any data analytics role so you can learn\u00a0\u00a0",
+    "start": 227.52,
+    "duration": 5.46
+  },
+  {
+    "text": "all the skills required in less than six months\u00a0\nthe program currently has well over 1 million\u00a0\u00a0",
+    "start": 232.98,
+    "duration": 6.78
+  },
+  {
+    "text": "students in a 4.8 star rating now if you're\u00a0\nwondering if you need any prior experience no\u00a0\u00a0",
+    "start": 239.76,
+    "duration": 6.66
+  },
+  {
+    "text": "there's no prior experience required and it's\u00a0\nall fully self-paced in the program you learn\u00a0\u00a0",
+    "start": 246.42,
+    "duration": 5.52
+  },
+  {
+    "text": "key analytical skills including data cleaning\u00a0\nanalysis and visualization using some of the\u00a0\u00a0",
+    "start": 251.94,
+    "duration": 7.08
+  },
+  {
+    "text": "most common industry tools such as spreadsheets\u00a0\nSQL or R programming upon completion you'll\u00a0\u00a0",
+    "start": 259.02,
+    "duration": 7.8
+  },
+  {
+    "text": "receive a Google professional certification which\u00a0\nyou'll be able to share on your CV and Linkedin\u00a0\u00a0",
+    "start": 266.82,
+    "duration": 5.94
+  },
+  {
+    "text": "so if you're interested sign up for a seven day\u00a0\nfree trial Now using the link in the description\u00a0\u00a0",
+    "start": 273.36,
+    "duration": 5.7
+  },
+  {
+    "text": "below alright back to the video great now\u00a0\nthat we've done step one and step two it's\u00a0\u00a0",
+    "start": 279.06,
+    "duration": 6.0
+  },
+  {
+    "text": "all about the descriptive statistics so really\u00a0\nseeing things like what's the average price what\u00a0\u00a0",
+    "start": 285.06,
+    "duration": 5.1
+  },
+  {
+    "text": "about the minimum the maximum and so on so for\u00a0\nthis let's hop over to the side and you could\u00a0\u00a0",
+    "start": 290.16,
+    "duration": 5.94
+  },
+  {
+    "text": "try to find for the price and for the quantity say\u00a0\nthe average going one by one so type the average\u00a0\u00a0",
+    "start": 296.1,
+    "duration": 5.28
+  },
+  {
+    "text": "formula then doing the same thing with the minimum\u00a0\nthe maximum so on but there is a much faster way\u00a0\u00a0",
+    "start": 301.38,
+    "duration": 5.88
+  },
+  {
+    "text": "that's actually using a tool called Data analysis\u00a0\nfor that we're gonna have to activate it it should\u00a0\u00a0",
+    "start": 307.26,
+    "duration": 6.54
+  },
+  {
+    "text": "be over here to the side under the data ribbon\u00a0\nif you don't have it like me we can go ahead\u00a0\u00a0",
+    "start": 313.8,
+    "duration": 4.5
+  },
+  {
+    "text": "and activate it so we'll head over to file\u00a0\ngo over to the bottom where it says options\u00a0\u00a0",
+    "start": 318.3,
+    "duration": 6.48
+  },
+  {
+    "text": "from here we're gonna go into add-ins and we want\u00a0\nto click on the analysis toolpack here and hit on\u00a0\u00a0",
+    "start": 326.28,
+    "duration": 6.48
+  },
+  {
+    "text": "go from here we want to select analysis toolpack\u00a0\nlike I said and we'll hit OK now you can see that\u00a0\u00a0",
+    "start": 332.76,
+    "duration": 6.96
+  },
+  {
+    "text": "we have this data analysis option under the data\u00a0\nribbon so that's the one that we want to select",
+    "start": 339.72,
+    "duration": 4.86
+  },
+  {
+    "text": "from here we want the descriptive\u00a0\nstatistics and we'll hit on OK there\u00a0\u00a0",
+    "start": 346.8,
+    "duration": 4.32
+  },
+  {
+    "text": "and the input range is going to be all of\u00a0\nour prices so we'll go Ctrl shift down there\u00a0\u00a0",
+    "start": 352.26,
+    "duration": 4.44
+  },
+  {
+    "text": "and then we want it to be a summary statistics and\u00a0\nwhere do we want this let's say we want an output\u00a0\u00a0",
+    "start": 357.48,
+    "duration": 6.3
+  },
+  {
+    "text": "range which is going to be up over here so right\u00a0\nnext to the table let's say we put it here to the\u00a0\u00a0",
+    "start": 363.78,
+    "duration": 5.22
+  },
+  {
+    "text": "side there we're just going to hit on OK and now\u00a0\nyou can see that for the price which is what we've\u00a0\u00a0",
+    "start": 369.0,
+    "duration": 6.18
+  },
+  {
+    "text": "selected we've gotten everything from the mean\u00a0\nthe median mode minimum maximum sum and a bunch\u00a0\u00a0",
+    "start": 375.18,
+    "duration": 6.3
+  },
+  {
+    "text": "of other useful information let me repeat that\u00a0\nsame process for the quantity awesome now we've\u00a0\u00a0",
+    "start": 381.48,
+    "duration": 6.54
+  },
+  {
+    "text": "got the breakdown by price and by quantity as well\u00a0\nbut one thing that this doesn't quite account for\u00a0\u00a0",
+    "start": 388.02,
+    "duration": 5.16
+  },
+  {
+    "text": "is the fact that there could be outliers in our\u00a0\nprice so for that we can go ahead down over here\u00a0\u00a0",
+    "start": 393.18,
+    "duration": 5.7
+  },
+  {
+    "text": "we're gonna basically create a new chart which\u00a0\nis going to be a box and whisker so let's first\u00a0\u00a0",
+    "start": 398.88,
+    "duration": 5.94
+  },
+  {
+    "text": "select all of the prices so Ctrl shift down\u00a0\nand down over here you're gonna find this icon\u00a0\u00a0",
+    "start": 404.82,
+    "duration": 6.36
+  },
+  {
+    "text": "click on that and we want a box and whisker\u00a0\nbasically this one over here and don't worry\u00a0\u00a0",
+    "start": 411.72,
+    "duration": 5.52
+  },
+  {
+    "text": "if you can't interpret it we'll look at it just\u00a0\nin a second let me move that all the way up\u00a0\u00a0",
+    "start": 417.24,
+    "duration": 4.44
+  },
+  {
+    "text": "so once we have it in here this is basically\u00a0\ntelling us a few different things so first\u00a0\u00a0",
+    "start": 422.34,
+    "duration": 4.62
+  },
+  {
+    "text": "these top and bottom lines are telling us\u00a0\nthe maximums so the Max and the Min if you\u00a0\u00a0",
+    "start": 426.96,
+    "duration": 4.62
+  },
+  {
+    "text": "will and then in here this box represents the\u00a0\nfirst and the third quartile and then you can\u00a0\u00a0",
+    "start": 431.58,
+    "duration": 5.76
+  },
+  {
+    "text": "see that we've got that X which is the average\u00a0\nthen we've got a line which is going to be the\u00a0\u00a0",
+    "start": 437.34,
+    "duration": 4.74
+  },
+  {
+    "text": "median and finally we've got these dots over here\u00a0\nwhich represent all of our outliers in our price\u00a0\u00a0",
+    "start": 442.08,
+    "duration": 6.54
+  },
+  {
+    "text": "now if we want to dig a bit further into this\u00a0\nit would be nice to see the x-axis maybe we can\u00a0\u00a0",
+    "start": 448.62,
+    "duration": 5.58
+  },
+  {
+    "text": "put something like the manager's name to see where\u00a0\nexactly this is coming from maybe it's one manager\u00a0\u00a0",
+    "start": 454.2,
+    "duration": 5.04
+  },
+  {
+    "text": "that might be reporting the data wrong so we'll\u00a0\ngo to right click for that go under select data\u00a0\u00a0",
+    "start": 459.24,
+    "duration": 6.6
+  },
+  {
+    "text": "edit the horizontal category access label\u00a0\nhere and what we're going to do is put the\u00a0\u00a0",
+    "start": 466.44,
+    "duration": 5.16
+  },
+  {
+    "text": "managers so we're going to select all\u00a0\nof these Ctrl shift down and hit on OK\u00a0\u00a0",
+    "start": 471.6,
+    "duration": 4.86
+  },
+  {
+    "text": "and hit on OK again now if we go all the way back\u00a0\nup you can see what that breakdown looks like\u00a0\u00a0",
+    "start": 477.66,
+    "duration": 5.76
+  },
+  {
+    "text": "by manager and it seems to be that all of these\u00a0\noutliers are accumulated with Joel maybe we should\u00a0\u00a0",
+    "start": 483.42,
+    "duration": 5.52
+  },
+  {
+    "text": "have a word with him now moving on to step 3 which\u00a0\nis data analysis so over here you can see that\u00a0\u00a0",
+    "start": 488.94,
+    "duration": 6.78
+  },
+  {
+    "text": "we've got three different questions that we want\u00a0\nto solve which is what is our best selling product\u00a0\u00a0",
+    "start": 495.72,
+    "duration": 4.44
+  },
+  {
+    "text": "what is our total revenue and that's what's our\u00a0\nRevenue breakdown by payment method so if we go\u00a0\u00a0",
+    "start": 500.16,
+    "duration": 6.36
+  },
+  {
+    "text": "back to the table here you notice that we don't\u00a0\nactually have a column for Revenue so that's one\u00a0\u00a0",
+    "start": 506.52,
+    "duration": 4.74
+  },
+  {
+    "text": "that we're going to have to calculate simply\u00a0\nby multiplying the price and the quantity so\u00a0\u00a0",
+    "start": 511.26,
+    "duration": 4.56
+  },
+  {
+    "text": "we'll do that over here let me add an extra column\u00a0\nthere and let's call this something like Revenue",
+    "start": 515.82,
+    "duration": 5.58
+  },
+  {
+    "text": "and the formula for it is going to be equals the\u00a0\nquantity multiplied by the price and we'll just\u00a0\u00a0",
+    "start": 524.34,
+    "duration": 6.12
+  },
+  {
+    "text": "hit enter there that should be calculated for us\u00a0\nand then we'll go up over here again and for all\u00a0\u00a0",
+    "start": 530.46,
+    "duration": 6.0
+  },
+  {
+    "text": "of this analysis we can actually do most of it\u00a0\nwith a pivot table so we'll head over to insert\u00a0\u00a0",
+    "start": 536.46,
+    "duration": 5.52
+  },
+  {
+    "text": "pivot table the table or range we're interested in\u00a0\nis all of this range so once we select one of the\u00a0\u00a0",
+    "start": 542.52,
+    "duration": 7.2
+  },
+  {
+    "text": "cells we can just go to control a that's going to\u00a0\nselect all of them and we want this in a location\u00a0\u00a0",
+    "start": 549.72,
+    "duration": 6.24
+  },
+  {
+    "text": "in an existing worksheet which we already selected\u00a0\nso we'll hit OK great from here we can start doing\u00a0\u00a0",
+    "start": 555.96,
+    "duration": 6.42
+  },
+  {
+    "text": "all the breakdown so what's our best selling\u00a0\nproduct so let's do this by quantity we're going\u00a0\u00a0",
+    "start": 562.38,
+    "duration": 5.4
+  },
+  {
+    "text": "to select the products as the rows just hover that\u00a0\nover and then we're gonna check the quantity over\u00a0\u00a0",
+    "start": 567.78,
+    "duration": 6.36
+  },
+  {
+    "text": "here as the values great now we have all of that\u00a0\nbreakdown if we want to sort it from highest to\u00a0\u00a0",
+    "start": 574.14,
+    "duration": 6.24
+  },
+  {
+    "text": "lowest we can go to right click and go to sort\u00a0\nand we'll sort largest to smallest and now you\u00a0\u00a0",
+    "start": 580.38,
+    "duration": 6.66
+  },
+  {
+    "text": "can see that beverages is our largest at 35 000.\u00a0\nthen secondly we've got what is our total revenue\u00a0\u00a0",
+    "start": 587.04,
+    "duration": 7.02
+  },
+  {
+    "text": "for this one we're simply going to have to select\u00a0\nthe revenue so first we'll remove these let's take\u00a0\u00a0",
+    "start": 594.66,
+    "duration": 5.52
+  },
+  {
+    "text": "this out and we'll take this out as well and\u00a0\nwe just have to select the revenue and put it\u00a0\u00a0",
+    "start": 600.18,
+    "duration": 4.98
+  },
+  {
+    "text": "under values that should give us the sum of total\u00a0\nrevenue which seems to be 812 000. and finally our\u00a0\u00a0",
+    "start": 605.16,
+    "duration": 8.1
+  },
+  {
+    "text": "Revenue breakdown by payment method so for that\u00a0\nwe're gonna get all of the payment methods and\u00a0\u00a0",
+    "start": 613.26,
+    "duration": 6.12
+  },
+  {
+    "text": "put those under the rosie like so but to see the\u00a0\nbreakdown better it probably makes more sense as\u00a0\u00a0",
+    "start": 619.38,
+    "duration": 6.18
+  },
+  {
+    "text": "a percentage so what we can actually do is go to\u00a0\nright click and from here go to summarize show\u00a0\u00a0",
+    "start": 625.56,
+    "duration": 6.6
+  },
+  {
+    "text": "values ask sorry and we're going to show them as a\u00a0\npercentage of the grand total now you can see that\u00a0\u00a0",
+    "start": 632.16,
+    "duration": 5.94
+  },
+  {
+    "text": "full breakdown and it seems like credit cards are\u00a0\nthe most dominant here now that you've seen how to\u00a0\u00a0",
+    "start": 638.1,
+    "duration": 6.42
+  },
+  {
+    "text": "do some of the data analysis let me show you what\u00a0\na final report might look like this one here is\u00a0\u00a0",
+    "start": 644.52,
+    "duration": 5.7
+  },
+  {
+    "text": "fairly simplified so you can see that we've got\u00a0\nthis drop down which is using data validation\u00a0\u00a0",
+    "start": 650.22,
+    "duration": 4.62
+  },
+  {
+    "text": "to select the manager and everything dynamically\u00a0\nchanges so if I select dwell I'm able to see which\u00a0\u00a0",
+    "start": 654.84,
+    "duration": 6.6
+  },
+  {
+    "text": "country and city is from using the X lookup and\u00a0\nthen just below that using the sum ifs I'm able\u00a0\u00a0",
+    "start": 661.44,
+    "duration": 6.66
+  },
+  {
+    "text": "to derive his particular revenue for fries and\u00a0\nthe other products as well as his total revenue\u00a0\u00a0",
+    "start": 668.1,
+    "duration": 6.36
+  },
+  {
+    "text": "and these data bars over here are done using\u00a0\nthe conditional formatting if you're unsure\u00a0\u00a0",
+    "start": 675.0,
+    "duration": 5.64
+  },
+  {
+    "text": "how to do this type of formulas you can check\u00a0\nout this video over here or this link over here\u00a0\u00a0",
+    "start": 680.64,
+    "duration": 5.52
+  },
+  {
+    "text": "to take our Excel codes hit the like and that\u00a0\nsubscribe and I'll catch you in the next one",
+    "start": 686.16,
+    "duration": 4.98
+  }
+]

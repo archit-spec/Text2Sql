@@ -15,7 +15,7 @@ def scrape_youtube(query):
         print("ytd-video-renderer")
 
         # Scroll to load more videos
-        for _ in range(10):  # Adjust the range for more or fewer scrolls
+        for _ in range(50):  # Adjust the range for more or fewer scrolls
             page.evaluate("window.scrollBy(0, document.body.scrollHeight)")
             page.wait_for_timeout(2000)  # Wait for more videos to load
 
@@ -52,10 +52,10 @@ def scrape_youtube(query):
         return video_data
 
 # Use the function and save results to a JSON file
-#query = "data analysis tutorial"
-#videos = scrape_youtube(query)
+query = "react tutorial hindi"
+videos = scrape_youtube(query)
 
-#with open("youtube_videos.json", "w", encoding="utf-8") as f:
-#    json.dump(videos, f, ensure_ascii=False, indent=4)
+with open("youtube_videos.json", "w", encoding="utf-8") as f:
+    json.dump(videos, f, ensure_ascii=False, indent=4)
 
 print("Data has been scraped and saved to youtube_videos.json")
