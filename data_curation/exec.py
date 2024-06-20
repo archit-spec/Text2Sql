@@ -3,8 +3,6 @@ import re
 import sys
 import subprocess
 
-
-
 def process_code(code, return_shell_output=False):
     def repl(match):
         if "real" not in match.group():

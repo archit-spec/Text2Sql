@@ -3,8 +3,8 @@ import google.generativeai as genai
 import time
 import pprint
 import json
+import glob
 
-import json
 
 def concatenate_transcript_text(transcript_file):
   with open(transcript_file, 'r') as f:
@@ -17,9 +17,8 @@ def concatenate_transcript_text(transcript_file):
   return concatenated_text.strip()
 
 # Example usage:
-transcript_file = "/home/dumball/code/blog-generator/transcripts/🚀 GOOGLE Data Analyst Roadmap l For Absolute Beginners l 2 Months Strategy #dataanalytics #google.json"
-concatenated_text = concatenate_transcript_text(transcript_file)
-print(concatenated_text)
+for file in glob.glob(os.path.join(os.getcwd(), "transcripts", "*.json")):
+   concatenated_text = concatenate_transcript_text(transcript_file)
 
 #function to time it
 def timeit(func):
@@ -42,13 +41,10 @@ generation_config = {
 
 }
 
-#read json 
 
 model = genai.GenerativeModel(
   model_name="gemini-1.5-flash",
   generation_config=generation_config,
-  # safety_settings = Adjust safety settings
-  # See https://ai.google.dev/gemini-api/docs/safety-settings
 )
 
 chat_session = model.generate_content()
