@@ -7,7 +7,7 @@ def scrape_youtube(query):
         page = browser.new_page()
 
         # Go to YouTube search results page
-        page.goto(f"https://www.youtube.com/results?search_query={query}")
+        page.goto(f"https://www.youtube.com/results?search_query=chip+tune+music&sp=EgIwAQ%253D%253D")
         print(f"https://www.youtube.com/results?search_query={query}")
 
         # Wait for the search results to load
@@ -55,7 +55,7 @@ def scrape_youtube(query):
 query = "react tutorial hindi"
 videos = scrape_youtube(query)
 
-with open("youtube_videos.json", "w", encoding="utf-8") as f:
+with open("youtube_videos2.json", "w", encoding="utf-8") as f:
     json.dump(videos, f, ensure_ascii=False, indent=4)
 
 print("Data has been scraped and saved to youtube_videos.json")
