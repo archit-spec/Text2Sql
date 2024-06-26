@@ -1,6 +1,5 @@
 from ingine import Video, SessionLocal
-from scrap import scrape_youtube
-
+from scraping import YouTubeScraper
 from youtube_transcript_api import YouTubeTranscriptApi
 from youtube_transcript_api.formatters import JSONFormatter
 

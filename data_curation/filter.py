@@ -1,5 +1,5 @@
 import os
-import google.generativeai as genai
+import google-generativeai as genai
 import time
 import pprint
 import json
@@ -38,8 +38,7 @@ generation_config = {
   "temperature": 1,
   "top_p": 0.95,
   "top_k": 64,
-  "max_output_tokens": 81920,TODO: put cpu in bus not the other way around
-
+  "max_output_tokens": 81920
 }
 
 #read json 
@@ -56,7 +55,7 @@ chat_session = model.generate_content()
 @timeit
 def gen():
       response = chat_session.send_message("INSERT_INPUT_HERE")
-      print(response._chunks, response._result, response.__doc__)
+      print(response.text, response._result, response.__doc__)
 
 
 gen()
